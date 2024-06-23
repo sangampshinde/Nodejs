@@ -1,4 +1,4 @@
-const dbConnet = require('./mongodb');
+const dbConnet = require('../mongodb');
 
 const deleteData= async()=>{
 
